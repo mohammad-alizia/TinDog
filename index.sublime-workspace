@@ -1,0 +1,576 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"size",
+				"size\tproperty"
+			],
+			[
+				"border",
+				"border-right\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"a",
+				"align-items\tproperty"
+			],
+			[
+				"mari",
+				"margin\tproperty"
+			],
+			[
+				"ma",
+				"margin-right\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"an",
+				"animation\tproperty"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"siz",
+				"background-size\tproperty"
+			],
+			[
+				"border-s",
+				"border-style\tproperty"
+			],
+			[
+				"borders",
+				"border-style\tproperty"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"e",
+				"Email"
+			],
+			[
+				"cell",
+				"cellspacing\tAttr"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"c",
+				"cellpadding\tAttr"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"onmouseo",
+				"onmouseover\tAttr"
+			],
+			[
+				"var",
+				"var1"
+			],
+			[
+				"s",
+				"script\tTag"
+			],
+			[
+				"gril",
+				"girl-after"
+			],
+			[
+				"hello",
+				"helloMsg"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"anm",
+				"animation-duration\tproperty"
+			],
+			[
+				"border-r",
+				"border-right\tproperty"
+			],
+			[
+				"mr",
+				"margin\tproperty"
+			],
+			[
+				"conte",
+				"align-content\tproperty"
+			],
+			[
+				"fonts",
+				"font-size\tproperty"
+			],
+			[
+				"text-de",
+				"text-decoration-line\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"textdec",
+				"text-decoration-line\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"color",
+				"outline-color\tproperty"
+			],
+			[
+				"textd",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"padding",
+				"padding-right\tproperty"
+			],
+			[
+				"top",
+				"top\tproperty"
+			],
+			[
+				"v",
+				"video\tTag"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"borderr",
+				"border-radius\tproperty"
+			],
+			[
+				"borderl",
+				"border-color\tproperty"
+			],
+			[
+				"texta",
+				"text-align\tproperty"
+			],
+			[
+				"borr",
+				"border-radius\tproperty"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fos",
+				"font-size\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"su",
+				"sup\tTag"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"prettify",
+				"Preferences: Settings – Syntax Specific"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/self/Angela-Web-Development/Project 3 (bootstrap 4.5)/TinDog-Start-master/index.html",
+		"/D/self/Angela-Web-Development/BootStrap Installation/index.html",
+		"/D/self/Angela-Web-Development/BootStrap Installation/bootstrap_starter.html",
+		"/D/Computer Science/WEB/New folder/GetFreeCourses.Co-Udemy-The Complete 2020 Web Development Bootcamp/5. Intermediate CSS/12.1 StubCode.html",
+		"/D/self/Angela-Web-Development/CSS-My Site/index.html",
+		"/D/self/Angela-Web-Development/CSS-My Site/css/style.css",
+		"/D/self/Angela-Web-Development/HTML/index.html",
+		"/D/self/Angela-Web-Development/CSS/style.css",
+		"/D/self/Angela-Web-Development/debugging problem/WD3.5 Bacon Fansite Start Here/style.css",
+		"/D/self/Angela-Web-Development/debugging problem/WD3.5 Bacon Fansite Start Here/index.html",
+		"/D/self/Angela-Web-Development/contact.html",
+		"/D/self/Angela-Web-Development/styles/style.css",
+		"/D/self/Angela-Web-Development/index.html",
+		"/D/self/Angela-Web-Development/debugging problem/CSS Debugging Problems/Debugging Problem 2",
+		"/D/self/Angela-Web-Development/debugging problem/CSS Debugging Problems/Debugging Problem 1",
+		"/D/self/Angela-Web-Development/hobbies.html",
+		"/D/self/script/10.html",
+		"/D/self/script/8.html",
+		"/D/self/script/9.html",
+		"/D/self/script/7.html",
+		"/D/self/script/6.html",
+		"/D/self/script/html5.html",
+		"/D/self/script/4.html",
+		"/D/self/script/3.html",
+		"/D/self/script/2.html",
+		"/D/self/script/1.html",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/admin/student-registration.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/admin/session.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/admin/semester.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/admin/print.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/admin/edit-student-profile.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/admin/manage-students.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/admin/logout.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/admin/level.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/admin/index.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/admin/enroll-history.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/admin/department.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/admin/course.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/admin/change-password.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/check_availability.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/includes/config.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/admin/user-log.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/admin/edit-course.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/admin/check_availability.php",
+		"/C/Users/user/Desktop/DB project/CampusManagementSystem/onlinecourse/admin/includes/header.php",
+		"/C/Users/user/Desktop/DB project/CampusManagementSystem/onlinecourse/admin/course.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/blog.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/print.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/pincode-verification.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/my-profile.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/logout.php",
+		"/C/Users/user/Desktop/DB project/CampusManagementSystem/onlinecourse/admin/change-password.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/index.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/change-password.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/enroll-history.php",
+		"/D/semster 4A5A/DB/project/CampusManagementSystem/onlinecourse/enroll.php",
+		"/C/Users/user/Desktop/DB project/CampusManagementSystem/onlinecourse/pincode-verification.php",
+		"/C/Users/user/Desktop/DB project/CampusManagementSystem/onlinecourse/check_availability.php",
+		"/C/Users/user/Desktop/DB project/CampusManagementSystem/onlinecourse/admin/user-log.php",
+		"/C/Users/user/Desktop/DB project/CampusManagementSystem/onlinecourse/admin/student-registration.php",
+		"/C/Users/user/Desktop/DB project/CampusManagementSystem/onlinecourse/admin/session.php",
+		"/C/Users/user/Desktop/DB project/CampusManagementSystem/onlinecourse/admin/semester.php",
+		"/C/Users/user/Desktop/DB project/CampusManagementSystem/onlinecourse/admin/print.php",
+		"/C/Users/user/Desktop/DB project/CampusManagementSystem/onlinecourse/admin/manage-students.php",
+		"/C/Users/user/Desktop/DB project/CampusManagementSystem/onlinecourse/admin/logout.php",
+		"/C/Users/user/Desktop/DB project/CampusManagementSystem/onlinecourse/admin/level.php",
+		"/C/Users/user/Desktop/DB project/CampusManagementSystem/onlinecourse/admin/index.php",
+		"/C/Users/user/Desktop/DB project/CampusManagementSystem/onlinecourse/admin/enroll-history.php",
+		"/C/Users/user/Desktop/DB project/CampusManagementSystem/onlinecourse/admin/edit-student-profile.php",
+		"/C/Users/user/Desktop/DB project/CampusManagementSystem/onlinecourse/admin/includes/config.php",
+		"/C/Users/user/Desktop/DB project/CampusManagementSystem/onlinecourse/admin/edit-course.php",
+		"/C/Users/user/Desktop/DB project/CampusManagementSystem/onlinecourse/admin/department.php",
+		"/C/Users/user/Desktop/DB project/CampusManagementSystem/onlinecourse/admin/check_availability.php",
+		"/D/Xampp/htdocs/onlinecourse/admin/includes/config.php",
+		"/C/Users/user/Desktop/New folder (3)/change-password.123html.php",
+		"/C/Users/user/Desktop/New folder (3)/change-password.html.php",
+		"/D/downloads/CampusManagementSystem/onlinecourse/admin/user-log.php",
+		"/D/downloads/CampusManagementSystem/onlinecourse/admin/student-registration.php",
+		"/D/downloads/CampusManagementSystem/onlinecourse/admin/session.php",
+		"/D/downloads/CampusManagementSystem/onlinecourse/admin/semester.php",
+		"/D/downloads/CampusManagementSystem/onlinecourse/admin/print.php",
+		"/D/downloads/CampusManagementSystem/onlinecourse/admin/manage-students.php",
+		"/D/downloads/CampusManagementSystem/onlinecourse/admin/logout.php",
+		"/D/downloads/CampusManagementSystem/onlinecourse/admin/index.php",
+		"/D/downloads/CampusManagementSystem/onlinecourse/admin/enroll-history.php",
+		"/D/downloads/CampusManagementSystem/onlinecourse/admin/edit-student-profile.php",
+		"/D/downloads/CampusManagementSystem/onlinecourse/admin/edit-course.php",
+		"/D/downloads/CampusManagementSystem/onlinecourse/admin/department.php",
+		"/D/Xampp/htdocs/onlinecourse/onlinecourse/admin/includes/header.php",
+		"/D/downloads/CampusManagementSystem/onlinecourse/admin/course.php",
+		"/D/downloads/CampusManagementSystem/onlinecourse/admin/check_availability.php",
+		"/D/downloads/CampusManagementSystem/onlinecourse/admin/includes/config.php",
+		"/D/downloads/CampusManagementSystem/onlinecourse/admin/change-password.php",
+		"/D/downloads/CampusManagementSystem/onlinecourse/admin/level.php",
+		"/D/Xampp/htdocs/onlinecourse/onlinecourse/admin/change-password.php",
+		"/D/Xampp/htdocs/onlinecourse/onlinecourse/js/signup.php",
+		"/D/Xampp/htdocs/onlinecourse/onlinecourse/my-profile.php",
+		"/D/Xampp/htdocs/onlinecourse/onlinecourse/logout.php",
+		"/D/Xampp/htdocs/onlinecourse/onlinecourse/index.php",
+		"/D/Xampp/htdocs/onlinecourse/onlinecourse/enroll-history.php",
+		"/D/Xampp/htdocs/onlinecourse/onlinecourse/enroll.php",
+		"/D/Xampp/htdocs/onlinecourse/onlinecourse/check_availability.php",
+		"/D/Xampp/htdocs/onlinecourse/onlinecourse/change-password.php",
+		"/D/Xampp/htdocs/onlinecourse/onlinecourse/blog.php",
+		"/D/Xampp/htdocs/onlinecourse/onlinecourse/pincode-verification.php",
+		"/D/Xampp/htdocs/onlinecourse/onlinecourse/print.php",
+		"/D/Xampp/htdocs/onlinecourse/onlinecourse/admin/includes/menubar.php",
+		"/D/Xampp/htdocs/onlinecourse/onlinecourse/admin/includes/config.php",
+		"/D/Xampp/htdocs/onlinecourse/onlinecourse/admin/includes/footer.php",
+		"/D/Xampp/htdocs/onlinecourse/onlinecourse/js/session.php",
+		"/D/Xampp/htdocs/onlinecourse/onlinecourse/js/signin.php",
+		"/C/Users/user/Desktop/Wed Developmen/javaScript/function.js",
+		"/C/Users/user/Desktop/Wed Developmen/javaScript/function.html",
+		"/C/Users/user/Desktop/Wed Developmen/javaScript/javaScriptByAli.html",
+		"/C/Users/user/Desktop/Wed Developmen/javaScript/doWhile.js",
+		"/C/Users/user/Desktop/Wed Developmen/javaScript/javaScript.html",
+		"/C/Users/user/Desktop/Wed Developmen/javaScript/switch.js",
+		"/C/Users/user/Desktop/Wed Developmen/javaScript/if.js",
+		"/C/Users/user/Desktop/javaScript.html",
+		"/C/Users/user/Desktop/hello.js",
+		"/C/Users/user/Desktop/function.js",
+		"/C/Users/user/Desktop/New folder/home.css",
+		"/C/Users/user/Desktop/New folder/home.html",
+		"/C/Users/user/Desktop/New folder/HTML_form.html",
+		"/C/Users/user/Desktop/video.css",
+		"/C/Users/user/Desktop/video.html",
+		"/C/Users/user/Desktop/table.html",
+		"/C/Users/user/Desktop/table.css"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\user\\Desktop\\New folder\\home.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
