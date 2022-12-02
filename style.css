@@ -120,3 +120,20 @@ p{
 	text-align: center;
 	padding: 3%;
 }
+
+#cta{
+    border: 1px solid red;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+}
+
+#footer
+{
+    background-color: black;
+    height:100px;
+    width: auto;
+    text-align: center;
+    
+}
